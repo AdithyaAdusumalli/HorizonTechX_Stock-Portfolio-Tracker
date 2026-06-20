@@ -141,7 +141,7 @@ This approach satisfies the Horizon TechX task requirement while demonstrating p
 
 ## 👨‍💻 Developed By
 
-Adithya Sandesh
+Adithya 
 
 Final Year B.Tech Student
 
